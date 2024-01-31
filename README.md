@@ -7,8 +7,8 @@
 </div>
 
 
-<div id="badges" class="center">
-  <a href="https://msu.ai/library">
+<div id="badges" align="center">
+ <a href="https://msu.ai/library">
     <img src="https://thumb.tildacdn.com/tild3131-6166-4632-a531-373838636130/-/resize/254x/-/format/webp/MSUAI_2.png" >
   </a>
 </div>
